@@ -1,0 +1,17 @@
+body{
+    background-color:#b4e6f8;
+    background-image:url("../img/logo.png");
+    background-repeat:no-repeat;
+    background-position:0px 0px;
+    font-family: Helvetica, sans;
+    color:#fff;
+}
+
+#socialbox{
+    margin-top:220px;
+    margin-left:650px;
+    width:350px;
+}
+
+
+
